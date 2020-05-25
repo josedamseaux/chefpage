@@ -1,0 +1,26 @@
+.jumbotron {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 2%;
+    color:rgb(0, 0, 0);
+    margin-bottom: 50px;
+    margin-top: 60px !important;
+
+}
+
+.display-4 {
+    font-size: 100px;
+}
+
+.lead {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+@media only screen and (max-width: 600px){
+    .head{
+        font-size: 250%;
+    }
+    .lead{
+        font-size: 100%;
+    }
+}
